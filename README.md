@@ -59,4 +59,4 @@ NumPy-Analyzer/
 - Statistics: `np.min()`, `np.max()`, `np.percentile()`, `np.corrcoef()`
 
 ## Author
-[Chirag.]
+krupa
